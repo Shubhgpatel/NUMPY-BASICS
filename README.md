@@ -1,1 +1,1 @@
-# NUMPY-BASICS
+# This repository serves as my personal space for continuous learning.
